@@ -1,0 +1,27 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Jogo.cpp
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.h(49): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(72): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(101): warning C4553: '==': result of expression not used; did you intend '='?
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(189): warning C4305: '+=': truncation from 'double' to 'float'
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(233): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(262): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(375): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(385): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(407): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(417): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(557): warning C4305: '=': truncation from 'double' to 'float'
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(564): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(573): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(581): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(613): warning C4101: 'save_bool': unreferenced local variable
+f:\visual studio\libunicornio-1.1.2\projetos\galaxy cat 2 - copia\jogo.cpp(614): warning C4101: 'save_float': unreferenced local variable
+  base.vcxproj -> F:\Visual Studio\libUnicornio-1.1.2\projetos\Galaxy cat 2 - Copia\bin\base-debug.exe
